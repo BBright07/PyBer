@@ -9,25 +9,15 @@ Note: Circle size correlates with driver count per city
 The results show that urban areas are overwhelmingly served while the rural areas were disproportionately served by drivers with high numbers of rides per city especially in the urban areas.
 ![alt text](https://github.com/BBright07/PyBer/blob/main/Analysis/Fig1.png)
 ### Fig 2
-The number of overall rides were in line with the driver access, with Urban at the top followed by suburban, and rural. 
-Rural:        125
-Suburban:     625
-Urban:       1625
+The number of overall rides were in line with the driver access, with Urban at the top followed by suburban, and rural. Rural: 125, Suburban: 625, Urban: 1625
 ![alt text](https://github.com/BBright07/PyBer/blob/main/Analysis/Fig2.png)
 ### Fig 3 
-The results show that rural areas have the highest fare compared to urban and suburban areas.
-Average fares:
-Rural       34.623440
-Suburban    30.970128
-Urban       24.525772
+The results show that rural areas have the highest fare compared to urban and suburban areas. Average fares -- Rural : 34.623440, Suburban:30.970128, Urban: 24.525772
 
 
 ![alt text](https://github.com/BBright07/PyBer/blob/main/Analysis/Fig3.png)
 ### Fig 4
-The driver count data also shows a disproportionately low rate for rural areas with a significant high for urban areas.
-Rural         78
-Suburban     490
-Urban       2405
+The driver count data also shows a disproportionately low rate for rural areas with a significant high for urban areas. Rural :78,Suburban: 490, Urban: 2405
 ![alt text](https://github.com/BBright07/PyBer/blob/main/Analysis/Fig4.png)
 ### Fig 5
 ![alt text](https://github.com/BBright07/PyBer/blob/main/Analysis/Fig5.png)
@@ -36,10 +26,7 @@ Urban       2405
 ### Fig 7
 ![alt text](https://github.com/BBright07/PyBer/blob/main/Analysis/Fig7.png)
 ### Fig 8
-Average driver fare per city:
-Rural       55.486282
-Suburban    39.502714
-Urban       16.571468
+Average driver fare per city-- Rural:55.486282, Suburban:39.502714, Urban: 16.571468
 ![alt text](https://github.com/BBright07/PyBer/blob/main/Analysis/Fig8.png)
 
 
