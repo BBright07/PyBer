@@ -41,7 +41,7 @@ Average driver fare per city
 - Rural: 55.486282
 - Suburban: 39.502714
 - Urban: 16.571468
-![alt text](https://github.com/BBright07/PyBer/blob/main/Analysis/Fig8.png)
+![alt text](https://github.com/BBright07/PyBer/blob/main/Analysis/PyBer_fare_summary.png)
 
 
 ## Summary:
