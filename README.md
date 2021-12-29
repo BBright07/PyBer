@@ -36,7 +36,7 @@ The driver count data also shows a disproportionately low rate for rural areas w
 ![alt text](https://github.com/BBright07/PyBer/blob/main/Analysis/Fig6.png)
 ### Fig 7
 ![alt text](https://github.com/BBright07/PyBer/blob/main/Analysis/Fig7.png)
-### Fig 8
+### PyBer_fare_summary
 Average driver fare per city
 - Rural: 55.486282
 - Suburban: 39.502714
@@ -48,4 +48,4 @@ Average driver fare per city
 Overall, the sum of fares was higher in the urban areas due to the high volume of rides in those areas compared to rural or suburban regions. However, the per ride fare in rural areas was overwhelmingly high in comparison. Additionally, the availability of drivers in rural areas was also comparably lower that the two other areas. As a result, rural areas are the most underserved and most expensive on a case by case basis, while urban areas have the least expenisve ride cost and most bountiful driver pool. To address disparities:
 - 1. Increase the number of drivers in rural and suburban areas
 - 2. Decrease the ride cost per rural and suburban rider
-- 3. Advertise the changes in underserved areas to encourage ridesharing.
+- 3. Advertise the changes in underserved areas to encourage ridesharing
